@@ -1,0 +1,62 @@
+{
+  "Get Available Currencies" : {
+    "transaction" : "Get Available Currencies",
+    "sampleCount" : 2000,
+    "errorCount" : 88,
+    "errorPct" : 4.4,
+    "meanResTime" : 25273.83200000004,
+    "minResTime" : 1292.0,
+    "maxResTime" : 208261.0,
+    "pct1ResTime" : 39452.5,
+    "pct2ResTime" : 62510.59999999999,
+    "pct3ResTime" : 65272.11,
+    "throughput" : 9.600337931895202,
+    "receivedKBytesPerSec" : 23.23889300903392,
+    "sentKBytesPerSec" : 1.9718194080431632
+  },
+  "Get Currency Rate" : {
+    "transaction" : "Get Currency Rate",
+    "sampleCount" : 1997,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 6550.338007010521,
+    "minResTime" : 235.0,
+    "maxResTime" : 83212.0,
+    "pct1ResTime" : 21680.0,
+    "pct2ResTime" : 27995.899999999983,
+    "pct3ResTime" : 45817.6,
+    "throughput" : 21.787276754055796,
+    "receivedKBytesPerSec" : 163.27513656255795,
+    "sentKBytesPerSec" : 5.000009801956163
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 5994,
+    "errorCount" : 90,
+    "errorPct" : 1.5015016,
+    "meanResTime" : 11591.803136469849,
+    "minResTime" : 128.0,
+    "maxResTime" : 208261.0,
+    "pct1ResTime" : 34212.5,
+    "pct2ResTime" : 38407.75,
+    "pct3ResTime" : 63541.25000000004,
+    "throughput" : 28.772212781889923,
+    "receivedKBytesPerSec" : 161.0808450457456,
+    "sentKBytesPerSec" : 6.481634403531005
+  },
+  "Get Historical Currency Rate" : {
+    "transaction" : "Get Historical Currency Rate",
+    "sampleCount" : 1997,
+    "errorCount" : 2,
+    "errorPct" : 0.10015023,
+    "meanResTime" : 2930.6855282924325,
+    "minResTime" : 128.0,
+    "maxResTime" : 196892.0,
+    "pct1ResTime" : 7012.8,
+    "pct2ResTime" : 15082.299999999985,
+    "pct3ResTime" : 32651.219999999998,
+    "throughput" : 9.676700327563816,
+    "receivedKBytesPerSec" : 66.62932354104481,
+    "sentKBytesPerSec" : 2.331788325511697
+  }
+}
