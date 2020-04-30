@@ -27,7 +27,5 @@ Step 5 :Edit the number of threads/virtual users that will be executing the requ
 
 * Apache JMeter [https://jmeter.apache.org/] - Open source application for testing APIs.
 
-## Author
 
-* **Vasant Verma** -(https://github.com/vasantverma)
 
